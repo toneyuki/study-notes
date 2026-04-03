@@ -13,4 +13,4 @@ study-notes
 - [Gitメモ](git/README.md)
 
 ### PowerShell
-- [PowerShellメモ](powershell/memo.md)
+- [PowerShellメモ](powershell/README.md)
