@@ -1,4 +1,4 @@
-[study-notes](../README.md) > Git
+[study-notes](../README.md) > [Git](README.md) > 基本コマンド
 
 ---
 
