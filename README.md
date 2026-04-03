@@ -1,3 +1,7 @@
+study-notes
+
+---
+
 # Study Notes
 
 ここは個人的な学習を行います。

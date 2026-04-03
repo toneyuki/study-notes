@@ -1,4 +1,4 @@
-[<< Gitメモトップ](README.md)
+[study-notes](../README.md) > Git
 
 ---
 
