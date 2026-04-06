@@ -9,10 +9,10 @@
 ---
 
 ## 参考
-[Git - git-status Documentation](https://git-scm.com/docs/git-status)
-[Git - git-add Documentation](https://git-scm.com/docs/git-add)
-[Git - git-restore Documentation](https://git-scm.com/docs/git-restore)
-[Git - git-stash Documentation](https://git-scm.com/docs/git-stash)
+- [Git - git-status Documentation](https://git-scm.com/docs/git-status)
+- [Git - git-add Documentation](https://git-scm.com/docs/git-add)
+- [Git - git-restore Documentation](https://git-scm.com/docs/git-restore)
+- [Git - git-stash Documentation](https://git-scm.com/docs/git-stash)
 
 ---
 
