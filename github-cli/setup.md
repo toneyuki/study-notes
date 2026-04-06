@@ -26,12 +26,9 @@
 gh auth login --clipboard --git-protocol https --web
 ```
 オプションメモ
-・--clipboard
-ワンタイムコードをクリップボードにコピーする（貼り付けが楽）
---git-protocol
-Gitの通信方式をHTTPSに固定（対話入力を省略）
---web
-Enter押下でブラウザのDevice Activation画面を開く
+- **--clipboard**: ワンタイムコードをクリップボードにコピーする（貼り付けが楽）
+- **--git-protocol**: Gitの通信方式をHTTPSに固定（対話入力を省略）
+- **--web**: Enter押下でブラウザのDevice Activation画面を開く
 
 ## 📋 実行ログ
 <details>
@@ -57,4 +54,7 @@ github.com
   - Token: gho_************************************
   - Token scopes: 'gist', 'read:org', 'repo', 'workflow'
 ```
+- 「Press Enter to open https://...」でEnterを押下すると、WEBブラウザ上で認証画面が開かれる。
+ワンタイムコードの入力、認証するアカウントの選択やアカウントのパスワードの入力を行う。
+- gh auth statusで正しくログインできたかを確認している。
 </details>
