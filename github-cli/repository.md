@@ -17,13 +17,13 @@
 gh repo create git --private --source=<リポジトリに追加する親フォルダパス> --remote=<リモートリポジトリ名> --push
 ```
 オプションメモ
-・--public / --private
-*リポジトリを公開設定にするか、非公開設定にするか*＜重要＞
-・--source=
+- --public / --private
+**リポジトリを公開設定にするか、非公開設定にするか**＜重要＞
+- --source=
 ローカルリポジトリとなるフォルダパス
-・--remote=
+- --remote=
 リモートリポジトリ名。通常はorigin。
-・--push
+- --push
 ローカルコミットを新しいリポジトリにプッシュする
 
 
@@ -34,16 +34,15 @@ cd <作成するローカルリポジトリの親フォルダ>
 gh repo create <作成するリポジトリ・フォルダ名> --private --clone --description <リポジトリの説明> --add-readme
 ```
 オプションメモ
-・--public / --private
-*リポジトリを公開設定にするか、非公開設定にするか*＜重要＞
-・--clone
+- --public / --private
+**リポジトリを公開設定にするか、非公開設定にするか**＜重要＞
+- --clone
 作成したリモートリポジトリをローカルフォルダにクローンする
-・--description <リポジトリの説明>
+- --description <リポジトリの説明>
 リポジトリ作成時に設定可能
-・--add-readme
+- --add-readme
 作成したリポジトリにREADME.mdを作成する。
 
-gh repo create iam-access-key-activator --private --clone --description "IAMユーザーアクセスキー有効化 承認基盤（AMP for Email + AWS Lambda）" --add-readme
 
 ## 📋 実行ログ（ローカルリポジトリも新規に作成する場合）
 <details>
