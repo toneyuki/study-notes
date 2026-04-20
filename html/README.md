@@ -85,6 +85,7 @@ HTMLに関する知識をまとめる。
   - https://developer.mozilla.org/ja/docs/Web/API/Popover_API
 
 | 用語          | 説明          | URL |
+| ----          | ----    | ----|
 | ポップオーバー | コンテンツの上にコンテンツを表示すること | https://developer.mozilla.org/ja/docs/Web/API/Popover_API
 | モーダル      | ポップオーバー表示中に後ろのコンテンツが反応しないようにする | ^
 | 非モーダル    | ポップオーバー表示中も後ろのコンテンツが反応する | ^
@@ -92,6 +93,7 @@ HTMLに関する知識をまとめる。
 #### 強調表示
 - 参考
   - https://developer.mozilla.org/ja/docs/Web/HTML/Reference/Elements/b#%E4%BD%BF%E7%94%A8%E4%B8%8A%E3%81%AE%E3%83%A1%E3%83%A2
+
 | 要素        | 説明      | URL  |
 | ----          | ----    | ----|
 | \<strong>   | 重要な単語や文章の強調（デフォで太字） | https://developer.mozilla.org/ja/docs/Web/HTML/Reference/Elements/strong
