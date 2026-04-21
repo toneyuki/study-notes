@@ -27,3 +27,6 @@
 
 ### AWS CLI
 - [AWS CLI学習](aws-cli/README.md)
+
+### 絵文字
+- [絵文字](emoji/README.md)
